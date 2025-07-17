@@ -1,0 +1,15 @@
+blank_issues_enabled: True
+contact_links: []
+
+issue_templates:
+  - name: Daily-Scrum-Template
+    description: 데일리 스크럼 템플릿
+    file: daily-scrum-template.md
+
+  - name: Sprint-Backlog-Template
+    description: 스프린트 백로그 템플릿
+    file: sprint-backlog-template.md
+
+  - name: 인공지능반 상호피드백
+    description: 인공지능반의 상호 피드백을 기록하는 템플릿입니다.
+    file: 인공지능반-상호피드백.md
