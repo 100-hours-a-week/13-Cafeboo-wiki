@@ -1,6 +1,6 @@
 ---
 name: 알렉스반 상호피드백(7.17)
-about: 인공지능반의 상호 피드백을 남겨주세요
+about: 알렉스반의 상호 피드백을 남겨주세요
 title: "[상호피드백] "
 labels: ["717feedback"]
 assignees: []
