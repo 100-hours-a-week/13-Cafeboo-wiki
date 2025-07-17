@@ -1,6 +1,15 @@
+---
+name: 인공지능반 상호피드백
+about: 인공지능반의 상호 피드백을 남겨주세요
+title: "[AI 피드백] "
+labels: ["feedback"]
+assignees: []
+---
+
+
 **제목 앞에 [상호피드백] 태그를 달아주세요:)** <br>
 접속 : https://cafeboo.com
----
+
 
 ## 테스트 활동 요청 사항
 1. www.cafeboo.com 회원가입 또는 로그인
