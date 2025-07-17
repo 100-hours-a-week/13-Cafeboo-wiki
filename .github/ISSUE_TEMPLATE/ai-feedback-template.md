@@ -6,9 +6,7 @@ labels: ["717feedback"]
 assignees: []
 ---
 
-
-**제목 앞에 [상호피드백] 태그를 달아주세요:)** <br>
-접속 : https://cafeboo.com
+서비스 접속 : https://cafeboo.com
 
 
 ## 테스트 활동 요청 사항
