@@ -12,4 +12,4 @@ issue_templates:
 
   - name: 인공지능반 상호피드백
     description: 인공지능반의 상호 피드백을 기록하는 템플릿입니다.
-    file: 717-Feedback.md
+    file: 717Feedback.md
