@@ -1,8 +1,8 @@
 ---
 name: 인공지능반 상호피드백
 about: 인공지능반의 상호 피드백을 남겨주세요
-title: "[AI 피드백] "
-labels: ["feedback"]
+title: "[상호피드백] "
+labels: ["717feedback"]
 assignees: []
 ---
 
